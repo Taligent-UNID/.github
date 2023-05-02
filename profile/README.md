@@ -9,9 +9,13 @@ Almacenar documentación e infraestructura como codigo, para el despliegue de re
 ### Proyectos
 
 La generación de un proyecto se inicia a traves de un requirimiento de Click-Up. 
-Un proyecto puede ser generado como borrador, para iniciar un seguimiento de tareas y procesos, lo que un proyecto generado puede ser almacenado o continuar el timeline, generando dicho repositorio correspondiente para el proyecto.
+Un proyecto puede ser generado como borrador, para iniciar un seguimiento de tareas y procesos, lo que un proyecto puede ser almacenado o continuar el timeline, disponiendo de un repositorio o varios.
 
 **__Proyecto Nuevo__**
 
-    -   Draft : Tareas al nivel de un proyecto como borrador.
-    -   Issue : Tareas al nivel de un proyecto asignado a un repositorio.
+Tipos de tareas:
+
+    -   Draft : Tarea al nivel de un proyecto como borrador.
+    -   Issue : Tarea al nivel de un proyecto asignado a un repositorio.
+
+**__Status__**
