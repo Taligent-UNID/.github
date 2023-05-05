@@ -101,3 +101,9 @@ Es una buena practica realizar commits en cada momento o de forma organizada, ya
 Al finalizar todos los commmits se puede realizar una solicitud de Pull Request esto indica que esta listo para ser revisado y darle done a la issue.
 
 ![alt text for screen readers](/profile/assets/pull-request.png "Status de un Issue")
+
+Se puede agregar informacion respecto a la solicitud de Pull Request.
+Siempre es a la rama main.
+
+![alt text for screen readers](/profile/assets/pr-description.png "Status de un Issue")
+
