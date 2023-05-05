@@ -65,7 +65,9 @@ Para este ejemplo si utilizar este mismo repositorio .GITHUB, el cual se estable
 
 ![alt text for screen readers](/profile/assets/ready.png "Status de un Issue")
 
-Cuando queremos empezar a trabajar en el Issue damos clic en la flecha y cambiara su estado.
+Cuando queremos empezar a trabajar en el Issue damos clic en la flecha y cambiara su estado a un cuadrado..
+
+![alt text for screen readers](/profile/assets/stop.png "Status de un Issue")
 
 ![alt text for screen readers](/profile/assets/in-progress.png "Status de un Issue")
 
@@ -90,9 +92,9 @@ Como tambien se detalla en el Issue
 
 [Fixed #1](https://github.com/Taligent-UNID/.github/issues/1)
 
-Si queremos podemos para de trabajar en este issue y trabajar en otro, solo con dar stop.
+Si queremos podemos para de trabajar en este issue y trabajar en otro, solo con dar al boton stop o el cuadrado en la imagen.
 
-![alt text for screen readers](/profile/assets/stop.png "Status de un Issue")
+![alt text for screen readers](/profile/assets/in-progress.png "Status de un Issue")
 
 (*)Para poder parar de trabajar en un issue si o si no debe haber cambios por commitear.
 
