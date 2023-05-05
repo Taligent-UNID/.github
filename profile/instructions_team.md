@@ -92,3 +92,11 @@ Como tambien se detalla en el Issue
 
 Si queremos podemos para de trabajar en este issue y trabajar en otro, solo con dar stop.
 
+![alt text for screen readers](/profile/assets/stop.png "Status de un Issue")
+
+(*)Para poder parar de trabajar en un issue si o si no debe haber cambios por commitear.
+
+Es una buena practica realizar commits en cada momento o de forma organizada, ya que en todo momento se puede regresar atras y borrar el ultimo cambio. Si solo se hiciera un solo commit, se borraria todo.
+
+Al finalizar todos los commmits se puede realizar una solicitud de Pull Request esto indica que esta listo para ser revisado y darle done a la issue.
+
