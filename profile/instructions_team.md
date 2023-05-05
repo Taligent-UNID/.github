@@ -107,3 +107,8 @@ Siempre es a la rama main.
 
 ![alt text for screen readers](/profile/assets/pr-description.png "Status de un Issue")
 
+Una vez aprobado el PR se da por aprobado y el issue terminado.
+
+[Fixed 1 Closed](https://github.com/Taligent-UNID/.github/issues/1)
+
+Con esto concluye nuestro trabajo y continuamos con las demas issues.
