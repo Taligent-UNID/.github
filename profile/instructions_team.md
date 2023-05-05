@@ -84,3 +84,11 @@ Podemos ver estas modificaciones en detalle.
 A la izquierda el archivo sin modificar y a la derecha sus modificaciones. Esto es un cambio o un commit.
 Ahora lo tenemos que subir a nuestro repositorio remoto.
 
+[Fixed 1](https://github.com/Taligent-UNID/.github/commit/25a3b15849957c9b45f8585b0628c5953e3c6cde)
+
+Como tambien se detalla en el Issue
+
+[Fixed #1](https://github.com/Taligent-UNID/.github/issues/1)
+
+Si queremos podemos para de trabajar en este issue y trabajar en otro, solo con dar stop.
+
