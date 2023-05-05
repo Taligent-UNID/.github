@@ -18,4 +18,14 @@ Tipos de tareas:
     -   Draft : Tarea al nivel de un proyecto como borrador.
     -   Issue : Tarea al nivel de un proyecto asignado a un repositorio.
 
-**__Status__**
+**__Gestion de Proyectos__**
+
+Cada desarrollador, arquitecto o analista de datos debe seguir un proceso de gestion en el proyecto.
+
+- Control de Versiones (Git)
+- Manejo de un editor de texto (VSCODE)
+- Seguimiento y desarrollo de Issues & Pull Request (Github)
+
+El seguiente documento explica todo el proceso para llevar a cabo un proyecto:
+
+[Instructivo para el Equipo](./instructions_team.md)
