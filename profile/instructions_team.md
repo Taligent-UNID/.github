@@ -13,7 +13,7 @@ Como primera instancia es necesario el conocimiento del uso de las siguientes he
     Muestro un ejemplo de como instalar una extension.
     ![alt text for screen readers](/profile/assets/install-pp-tools.gif "Extensions")
 
-    Instalar la Extension Github.
+    Instalar la Extension Github Pull Requests And Issues 
 
 Una vez instalado todas las herramientas el team puede realizar un logueo con la extensión GitHub. Donde dispone de los issues asignados a él.
 
