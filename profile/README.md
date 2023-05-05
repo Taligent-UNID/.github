@@ -28,4 +28,4 @@ Cada desarrollador, arquitecto o analista de datos debe seguir un proceso de ges
 
 El seguiente documento explica todo el proceso para llevar a cabo un proyecto:
 
-[Instructivo para el Equipo](./instructions_team.md)
+[Instructivo para el Equipo](./profile/instructions_team.md)
