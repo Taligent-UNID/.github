@@ -1,5 +1,7 @@
 # Taligent
 
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+
 Biblioteca de repositorios del Equipo Taligent - Integracion de Datos
 
 ### Objetivo
