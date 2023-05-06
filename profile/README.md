@@ -7,7 +7,7 @@ Biblioteca de repositorios del Equipo Taligent - Integracion de Datos
 Almacenar documentación e infraestructura como codigo, para el despliegue de recursos y servicios en la nube.
 
 ### Languages, Tools, and Skills 🛠
-
+<div align="center">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
@@ -18,7 +18,7 @@ Almacenar documentación e infraestructura como codigo, para el despliegue de re
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
+</div>
 ### Proyectos
 
 La generación de un proyecto se inicia a traves de un requirimiento de Click-Up. 
