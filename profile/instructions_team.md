@@ -8,9 +8,12 @@ Como primera instancia es necesario el conocimiento del uso de las siguientes he
     Instalar git, y pueden ver un video introductorio para entender su funcionamiento: 
     https://www.youtube.com/watch?v=DinilgacaWs
 - [VSCODE](https://code.visualstudio.com/)
-    VSCODE Instalar Vscode para tener una mejor edición de texto. También debes instalar las siguientes extensiones.
-
+    Instalar Vscode para tener una mejor edición de texto. También debes instalar las siguientes extensiones.
+    
+    
     Muestro un ejemplo de como instalar una extension.
+    <br>
+    
     ![alt text for screen readers](/profile/assets/install-pp-tools.gif "Extensions")
 
     Instalar la Extension Github Pull Requests And Issues 
